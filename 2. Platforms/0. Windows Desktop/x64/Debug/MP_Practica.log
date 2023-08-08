@@ -1,0 +1,29 @@
+﻿  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  NFont.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  Board.cpp
+  Cell.cpp
+  Dictionary.cpp
+  GraphicManager.cpp
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\GraphicManager.cpp(28,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\GraphicManager.cpp(28,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(27,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Button.cpp
+  ScrabbleGame.cpp
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(27,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Tile.cpp
+  Generando código...
+  SDL_FontCache.c
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.c(138,1): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.c(570,25): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.c(571,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.c(607,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\MP\Scrabble\Segona entrega\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.c(2654,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+LINK : fatal error LNK1104: no se puede abrir el archivo 'SDL2main.lib'
