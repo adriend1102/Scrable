@@ -1,0 +1,41 @@
+﻿  Board.cpp
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(25,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(81,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(96,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(125,13): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(137,13): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(164,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(183,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(408,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(444,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Board.cpp(488,12): warning C4018: '<': no coinciden signed/unsigned
+  Cell.cpp
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(25,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Player.cpp
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(25,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Player.cpp(68,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Player.cpp(69,11): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Player.cpp(72,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Player.cpp(73,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\Player.cpp(362,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  PlayerTile.cpp
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(25,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  ScrabbleGame.cpp
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(25,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(30,115): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(31,136): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(32,126): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(33,118): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(53,44): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(55,127): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(97,67): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(124,67): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(126,131): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(128,135): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(130,157): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(167,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble\ScrabbleGame.cpp(167,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  main.cpp
+C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\0. C++ Code\Logic Game\Scrabble_Defs.h(25,45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  MP_Practica.vcxproj -> C:\Users\adria\Desktop\UNI\20-21\MP\Scrabble\Segona entrega\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
